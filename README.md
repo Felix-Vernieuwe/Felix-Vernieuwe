@@ -1,2 +1,3 @@
 GitHub account for University of Antwerp
-Main account is: https://github.com/fevol
+
+My personal account can be found here: [Fevol](https://github.com/fevol)
